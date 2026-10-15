@@ -1,0 +1,17 @@
+{
+  "name": "alamin-skills",
+  "owner": {
+    "name": "Alamin30"
+  },
+  "metadata": {
+    "description": "Claude Code skills by Alamin30."
+  },
+  "plugins": [
+    {
+      "name": "standup",
+      "source": "./plugins/standup",
+      "description": "Daily standup report for Slack, built from your own git commits across local repos.",
+      "version": "1.0.0"
+    }
+  ]
+}
