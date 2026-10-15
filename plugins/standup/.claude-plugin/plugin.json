@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "Daily standup report for Slack, built from your own git commits across local repos.",
   "author": {
-    "name": "Alamin30"
+    "name": "alamin30"
   },
-  "repository": "https://github.com/Alamin30/claude-skills",
+  "repository": "https://github.com/alamin30/claude-skills",
   "license": "MIT",
   "keywords": ["standup", "git", "slack", "report"]
 }

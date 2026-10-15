@@ -1,11 +1,11 @@
 # claude-skills
 
-Claude Code plugins by Alamin30.
+Claude Code plugins by alamin30.
 
 ## Install
 
 ```
-/plugin marketplace add Alamin30/claude-skills
+/plugin marketplace add alamin30/claude-skills
 /plugin install standup@alamin-skills
 ```
 
